@@ -1,8 +1,8 @@
 /* Style Settings */
 @import url('http://fonts.googleapis.com/css?family=Roboto');
 :root {
-    --bgColor:#FFDFDC;
-    --accentColor: #FF7272;
+    --bgColor:#d8d4cd;
+    --accentColor: #00002d;
     --complementColor: #FFFFFF;
     --font: 'Roboto', sans-serif;
 }
